@@ -1,4 +1,4 @@
-#Copyright 2021-2022 Ultra X Bot
+#Copyright 2021-2022 AVENGER
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
