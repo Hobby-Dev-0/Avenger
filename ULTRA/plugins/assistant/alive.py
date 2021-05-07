@@ -35,7 +35,7 @@ async def callback_query_handler(event):
   PROBOYX +=[[Button.url("Dᴇᴘʟᴏʏ Avenger", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU")]]
   PROBOYX +=[[Button.url("Tᴜᴛᴏʀɪᴀʟ", "https://youtu.be/rGCSSFPsS4Q"), Button.url("Sᴛʀɪɴɢ Sᴇssɪᴏɴ","httpsps://replit.com/@avenger6262/Avenger6262#main.py")]]
   PROBOYX +=[[Button.url("Aᴘɪ Iᴅ & Aᴘɪ Hᴀsʜ", "https://t.me/usetgxbot"), Button.url("Rᴇᴅɪs", "https://redislabs.com")]]
-  PROBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/UltraXOT"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/UltraXChat")]]
+  PROBOYX +=[[Button.url("Sᴜᴘᴘᴏʀᴛ Cʜᴀɴɴᴇʟ", "https://t.me/Avenger_BOT_support"), Button.url("Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ", "https://t.me/UltraXChat")]]
   PROBOYX +=[[custom.Button.inline("«« Aʟɪᴠᴇ", data="PROBOY")]]
   await event.edit(text=f"Aʟʟ Dᴇᴛᴀɪʟs Oғ Rᴇᴘᴏs", buttons=PROBOYX)
 
@@ -57,7 +57,7 @@ async def callback_query_handler(event):
 
 @xbot.on(events.NewMessage(pattern=("/repo")))
 async def repo(event):
-  await xbot.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ Avenger Usᴇʀʙᴏᴛ** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @UltraXOT", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/Avenger6262/ULTRA-X"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU")]])
+  await xbot.send_message(event.chat, "**Hᴇʀᴇ Is Tʜᴇ Rᴇᴘᴏ Fᴏʀ Avenger Usᴇʀʙᴏᴛ** \n\nFᴏʀ Aɴʏ Hᴇʟᴘ :- @Avenger_BOT_support", buttons=[[Button.url("⚜️ Rᴇᴘᴏ ⚜️", "https://github.com/Avenger6262/ULTRA-X"), Button.url("🔰 Dᴇᴘʟᴏʏ 🔰", "https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FAvenger6262%2FHEROKU")]])
 
 
 def get_readable_time(seconds: int) -> str:
