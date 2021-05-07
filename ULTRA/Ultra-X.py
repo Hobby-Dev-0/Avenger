@@ -28,16 +28,16 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
+ULTRAX = "[Avenger](https://t.me/Avenger_BOT_support)"
 #my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/Avenger6262/Avenger)"
+REPO = "[Avenger вσт](https://github.com/Avenger6262/Avenger)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT GROUP](https://t.me/Avenger_BOT_support)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "Avenger вσт ιѕ ση 🔥 ƒιяє 🔥" 
