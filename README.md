@@ -27,7 +27,7 @@ This is a AVENGER made for telegram. I made this AVENGER with help of all other 
 
 # Cʀᴇᴅɪᴛs 📍
 ## • SHIVANSH  »»  [IRON MAN]
-### • AMMAN  »»  [CAPTAIN]
+### • AMAAN  »»  [CAPTAIN]
 ### • MD NOOR  »»  [HULK]
 #### • USTAD  »»  [BLACK PANTHER]
 
