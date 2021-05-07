@@ -1,7 +1,7 @@
 # COPYRIGHT (C) 2021 
 """
 """
-# MADE BY LEGENDX22 🔥
+# MADE BY SHIVANSH🔥
 # MY IDEA H YRR DONT KANG THIS PLEASE
 import asyncio
 import os
