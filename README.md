@@ -100,6 +100,3 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ## Copyright (C) 2021 by Team Avenger for Avenger UserBot, < https://github.com/Avenger6262 >.
 
-
-# ➥ IRON-MAN  »»  <a href="https://telegram.me/Royal_Boy_45"/></a>
-# ➥ ULTRA-OP  »»  <a href="https://github.com/ULTRA-OP" alt="Ultra-Op"> <img src="https://img.shields.io/badge/ULTRA OP-BCE954?logo=github" /></a>
