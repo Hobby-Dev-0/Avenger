@@ -17,7 +17,7 @@ This is a AVENGER made for telegram. I made this AVENGER with help of all other 
 
 ## Sᴛʀɪɴɢ Sᴇssɪᴏɴ:-
 
-## [String Session](https://replit.com/@legendx22/ULTRA-X)
+## [String Session](https://replit.com/@avenger6262/Avenger6262#main.py)
 
 -------------------------------------------------
 
