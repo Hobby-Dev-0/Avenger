@@ -6,10 +6,10 @@
 import bs4
 import requests
 
-from ULTRA.utils import admin_cmd, edit_or_reply, sudo_cmd
-from ULTRA import ALIVE_NAME, CMD_HELP
+from Avenger.utils import admin_cmd, edit_or_reply, sudo_cmd
+from Avenger import ALIVE_NAME, CMD_HELP
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Avenger"
 
 
 @bot.on(admin_cmd(pattern="app (.*)"))
