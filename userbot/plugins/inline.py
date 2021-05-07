@@ -1,8 +1,8 @@
-# COPYRIGHT (C) BY 2021 BY ULTRA X
+# COPYRIGHT (C) BY 2021 BY Avenger
 # make by @Royal_Boy_45
 # inline alive
 # modify by Raja Beta
-# master and assistant button by papa jo
+# master and assistant button by BLACK SNAKE
 
 import asyncio
 import os
