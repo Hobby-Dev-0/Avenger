@@ -2,10 +2,10 @@
 
 
 # ✰Ａｖｅｎｇｅｒｓ✰
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a AVENGER made for telegram. I made this AVENGER with help of all other team members available in telegram. All credits goes to its Respective Owners....
 
 
-[![✰Ａｖｅｎｇｅｒｓ✰ Bot Logo](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![✰Ａｖｅｎｇｅｒｓ✰ Bot Logo](https://telegra.ph/file/4bd19ebc193edcd955194.jpg)](https://t.me/Avenger_userbot_channel)
 
 -------------------------------------------------
 
