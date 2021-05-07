@@ -21,20 +21,14 @@ This is a AVENGER made for telegram. I made this AVENGER with help of all other 
 
 -------------------------------------------------
 
-## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/ULTRAX-OP/ULTRA-X/network/members"><img src="https://img.shields.io/github/forks/ULTRA-OP/ULTRA-X?label=Forks&logoColor=pink&style=social"></a><p align="left"><a href="https://github.com/ULTRA-OP/ULTRA-X/stargazers"><img src="https://img.shields.io/github/stars/ULTRA-OP/ULTRA-X?logoColor=red&style=social"></a><p align="left"><a href="https://github.com/ULTRA-OP/ULTRA-x"><img src="https://img.shields.io/github/last-commit/Ultra-Op/Ultra-X?style=plastic"></a>
-
 ## The owner would not be responsible for any kind of bans due to the bot...
 ## Fᴏʀᴋ Aᴛ Yᴏᴜʀ Oᴡɴ Rɪsᴋ
 ## Iɴsᴛᴀʟʟɪɴɢ
 
 # Cʀᴇᴅɪᴛs 📍
-## • LEGENDX  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
-### • ULTRA X  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
-### • PROBOYX  »»  <a href="https://github.com/PROBOYX" alt="ProBoy X"> <img src="https://img.shields.io/badge/PROBOY X-625D5D?logo=github" /></a>
-### • MADBOY   »»  <a href="https://github.com/madboy482" alt="MadBoy"> <img src="https://img.shields.io/badge/MADBOY-30302f?logo=github" /></a>
-### • ALAIN    »»  <a href="https://github.com/infotechbro" alt="Alain"> <img src="https://img.shields.io/badge/ALAIN-95B9C7?logo=github" /></a>
-### • DEVIL    »»  <a href="https://github.com/lucifeermorningstar" alt="Devil"> <img src="https://img.shields.io/badge/DEVIL-82CAFA?logo=github" /></a>
+## • SHIVANSH  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
+### • AMMAN  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
+### • MD NOOR  »»  <a href="https://telegram.me/SimpleBoy786" [HULK]
 
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
@@ -47,13 +41,12 @@ This is a AVENGER made for telegram. I made this AVENGER with help of all other 
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/legendx22/LEGEND-BOT
-cd LEGEND-BOT
+git clone https://github.com/Avenger6262/Avenger
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # <Create local_config.py with variables as given below>
-python3 -m ULTRA
+python3 -m Avenger
 ```
 
 An example `local_config.py` file could be:
@@ -72,7 +65,7 @@ class Development(Var):
 
 ### Uɴɪʙᴏʀɢ Cᴏɴғɪɢʀɪᴜᴛɪᴏɴ
 
-The UniBorg Config is situated in `ULTRA/uniborgConfig.py`.
+The UniBorg Config is situated in `Avenger/uniborgConfig.py`.
 
 **Heroku Configuration**
 Simply just leave the Config as it is.
