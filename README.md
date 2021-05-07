@@ -26,10 +26,10 @@ This is a AVENGER made for telegram. I made this AVENGER with help of all other 
 ## Iɴsᴛᴀʟʟɪɴɢ
 
 # Cʀᴇᴅɪᴛs 📍
-## • SHIVANSH  »»  <a href="https://github.com/LEGENDXOP" alt="LegendX"> <img src="https://img.shields.io/badge/LEGEND X-E5E4E2?logo=github" /></a>
-### • AMMAN  »»  <a href="https://github.com/LEGENDXOP/LEGEND-BOT" alt="UltraX"> <img src="https://img.shields.io/badge/ULTRA-X-98AFC7?logo=github" /></a>
-### • MD NOOR  »»  <a href="https://telegram.me/SimpleBoy786" [HULK]
-
+## • SHIVANSH  »»  [IRON MAN]
+### • AMMAN  »»  [CAPTAIN]
+### • MD NOOR  »»  [HULK]
+#### • USTAD  »»  [BLACK PANTHER]
 
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
