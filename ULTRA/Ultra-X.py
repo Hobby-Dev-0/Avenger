@@ -18,8 +18,8 @@ import os
 import datetime
 #importing finished
 from ULTRA import botnickname 
-BOT = str(botnickname) if botnickname else "υℓтяα χ вσт"
-NAME = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ вσу"
+BOT = str(botnickname) if botnickname else "𝘼𝙑𝙀𝙉𝙂𝙀𝙍 𝘽𝙊𝙏"
+NAME = str(ALIVE_NAME) if ALIVE_NAME else "𝘼𝙑𝙀𝙉𝙂𝙀𝙍 𝘽𝙊𝙔"
 tim = get_readable_time((time.time() - StartTime))
 #pic 👇
 PIC = os.environ.get("ALIVE_PIC")
@@ -30,7 +30,7 @@ TIME = time.asctime(time.localtime())
 #my name 👇
 ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
 #my bots repo 👇
-REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
+REPO = "[υℓтяα χ вσт](https://github.com/Avenger6262/Avenger)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
 #yrr isko apne bot me aply krne se pehle mere se pooch lena ok
 #aur aage add kruga abhi busy okay 🤔
@@ -40,6 +40,6 @@ MASTER = f"[{NAME}](tg://user?id={X})"
 GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+ALIVE = "Avenger вσт ιѕ ση 🔥 ƒιяє 🔥" 
+OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ Avenger вσт ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
