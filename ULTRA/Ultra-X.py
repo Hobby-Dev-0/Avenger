@@ -2,9 +2,9 @@
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
-from ULTRA import ALIVE_NAME, StartTime
-from ULTRA.utils import admin_cmd
-from ULTRA import bot
+from userbot import ALIVE_NAME, StartTime
+from userbot.utils import admin_cmd
+from userbot import bot
 from telethon import version
 from math import ceil
 import json
