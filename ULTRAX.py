@@ -1,4 +1,4 @@
-# COPYRIGHT (C) 2021 BY LEGENDX22
+# COPYRIGHT (C) 2021 
 """
 """
 # MADE BY LEGENDX22 🔥
@@ -34,7 +34,7 @@ ALIVE_NAME = os.environ.get("ALIVE_NAME")
 BOT = str(botnickname) if botnickname else "𝘼𝙑𝙀𝙉𝙂𝙀𝙍"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "𝘼𝙑𝙀𝙉𝙂𝙀𝙍"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-AVENGER = "[AVENGER](https://t.me/ULTRAXOT)"
+AVENGER = "[AVENGER](https://t.me/Avenger_BOT_support)"
 VERSION = "2.0.1"
 ALIVE_USERNAME = os.environ.get("ALIVE_USERNAME", None)
 ALIVE_BOT_USERNAME = os.environ.get("ALIVE_BOT_USERNAME", None)
@@ -75,7 +75,7 @@ def wt(obj, file):
     return False
 
 MASTER = NAME
-GROUP = "[SUPPORT GROUP](https://t.me/UltraXChat)"
+GROUP = "[SUPPORT GROUP](https://t.me/Avenger_BOT_support)"
 if __name__=="__main__":
   bot.start()
   bot.run_until_disconnected()
